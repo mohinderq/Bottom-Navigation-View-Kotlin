@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bottom Navigation View Kotlin</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_string">This is our home menu!</string>
+    <string name="rate">RATE</string>
+    <string name="thank_you_for_rating_us">Thank you for rating us.</string>
+</resources>
